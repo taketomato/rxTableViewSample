@@ -1,0 +1,3 @@
+framework module RxRealm {
+    header "RxRealm-Swift.h"
+}
